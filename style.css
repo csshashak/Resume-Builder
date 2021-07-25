@@ -1,0 +1,12 @@
+
+.my-img{
+    border-radius: 50%;
+    width:200px;
+}
+.background{
+    background-color: #333;
+    color: #fff;
+}
+#cv-template{
+    display:none;
+}
