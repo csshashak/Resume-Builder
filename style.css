@@ -1,12 +1,16 @@
-
-.my-img{
+body {
+    background-color: #e2e2e2;
+  }
+ 
+  #cv-template {
+    display: none;
+  }
+  .myimg {
+    /* border: 1px solid red; */
     border-radius: 50%;
-    width:80px;
-}
-.background{
-    background-color: #333;
-    color: #fff;
-}
-#cv-template{
-    display:none;
-}
+    width: 200px;
+  }
+  
+  .background {
+    background-color: aqua;
+  }
